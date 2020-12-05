@@ -1,5 +1,5 @@
 /**
- *  <Client.java is part of Dependence Inversion Principle example>
+ *  <Service.java is part of Dependence Inversion Principle example>
  *     Copyright (C) <2020>  <Emmanuelle Ruelas Gómez>
  *
  *     This file is part of Principios_SOLID project.

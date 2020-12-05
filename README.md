@@ -13,6 +13,5 @@ El presente repositorio contiene códigos de ejemplo de los principios de progra
 
 ***
 Editado por: 
-Emmanuelle Ruelas Gómez.
-
-Ultima Actualizción 5 de Diciembre 2020.
+Emmanuelle Ruelas Gómez.  
+Ultima actualizción 5 de Diciembre 2020.

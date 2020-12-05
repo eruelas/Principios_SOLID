@@ -1,10 +1,9 @@
 public class Client {
-    private Service service;
+    private Service service = new Service();
     public void doSomething(){
-        service = new Service();
         doSomethingPhaseOne();
+        //service.doSomethingAsync(()->doSomethingPhaseTwo());
         service.doSomethingAsync(this::doSomethingPhaseTwo);
-
     }
     private void doSomethingPhaseOne(){
         System.out.println("doSomethingPhaseOne");

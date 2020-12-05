@@ -12,6 +12,6 @@ El presente repositorio contiene códigos de ejemplo de los principios de progra
 </div>
 
 ***
-Editado por:
-Emmanuelle Ruelas Gómez
+Editado por: 
+Emmanuelle Ruelas Gómez 
 Ultima Actualizción 5 de Diciembre 2020

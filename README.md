@@ -1,7 +1,11 @@
 # Principios SOLID
 Ejemplos de aplicación de los principios SOLID
+## Autor
+Emmanuelle Ruelas Gómez
+
+
 ## Objetivo
-El presente repositorio contiene el código ejemplo de los principios de programación SOLID. 
+El presente repositorio contiene códigos de ejemplo de los principios de programación SOLID. 
 
 ### DIP
 <div align='center' >

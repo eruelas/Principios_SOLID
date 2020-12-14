@@ -4,7 +4,9 @@ Ejemplos de aplicación de los principios SOLID
 
 ## Objetivo
 El presente repositorio contiene códigos de ejemplos de aplicación de los principios de programación SOLID. 
-1. Single Responsability Principle ó SRP
+A lo largo tanto del código como de la documentacón se presentan comparativas entre tomar en cuenta los princioios SOLID como no hacerlo. 
+
+1. Single Responsability Principle ó SRP 
 2. Open Close Principle ó OCP
 3. Liskov Substitution Principle ó LSP
 4. Intergface Segregation Principle ó ISP

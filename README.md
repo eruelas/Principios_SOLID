@@ -3,7 +3,11 @@ Ejemplos de aplicación de los principios SOLID
 
 
 ## Objetivo
-El presente repositorio contiene códigos de ejemplo de los principios de programación SOLID. 
+El presente repositorio contiene códigos de ejemplos de aplicación de los principios de programación SOLID. 
+- Single Responsability
+
+
+
 
 ### DIP
 <div align='center' >
